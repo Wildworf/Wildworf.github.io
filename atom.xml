@@ -6,7 +6,7 @@
   <link href="http://lonelypatient.top/atom.xml" rel="self"/>
   
   <link href="http://lonelypatient.top/"/>
-  <updated>2021-06-18T14:56:31.055Z</updated>
+  <updated>2021-07-17T11:20:56.801Z</updated>
   <id>http://lonelypatient.top/</id>
   
   <author>
@@ -17,38 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test</title>
-    <link href="http://lonelypatient.top/2021/06/18/First/"/>
-    <id>http://lonelypatient.top/2021/06/18/First/</id>
-    <published>2021-06-18T14:51:58.000Z</published>
-    <updated>2021-06-18T14:56:31.055Z</updated>
+    <title></title>
+    <link href="http://lonelypatient.top/2021/07/17/summary/"/>
+    <id>http://lonelypatient.top/2021/07/17/summary/</id>
+    <published>2021-07-17T11:33:53.222Z</published>
+    <updated>2021-07-17T11:20:56.801Z</updated>
     
-    <content type="html"><![CDATA[<ol><li>你说啥</li><li>我没说话<ol><li>你说话了</li></ol></li></ol><hr><ul><li>你看这是啥</li><li><u>我看不到</u><ul><li>你是眼瞎吧</li></ul></li></ul><ul><li><input disabled="" type="checkbox"> 你看这是啥</li><li><input checked="" disabled="" type="checkbox"> 俺做到了<br>你变成<font color="red">红</font>色吧<br>也可以变层<font color="blue">绿</font>色的呢<br>我要<kbd>突出</kbd>,你变成<code>阴影</code>吧<!--我被注释了，哭凄凄--></li></ul><hr><table><thead><tr><th>markdown</th><th align="center">Less</th><th align="right">Pretty</th></tr></thead><tbody><tr><td>左对齐</td><td align="center">居中对齐</td><td align="right">右对齐</td></tr><tr><td>1</td><td align="center">2</td><td align="right">3</td></tr><tr><td>11</td><td align="center">22</td><td align="right">33</td></tr></tbody></table><hr><blockquote><p>最外层</p><blockquote><p>第一层嵌套</p><blockquote><p>第二层嵌套</p></blockquote></blockquote></blockquote><hr><p>这是一个链接<a href="https://www.runoob.com/markdown/md-link.html">我是链接</a></p><pre class=" language-matlab"><code class="language-matlab">x <span class="token operator">=</span> <span class="token function">linspace</span><span class="token punctuation">(</span><span class="token operator">-</span><span class="token number">10</span><span class="token punctuation">,</span><span class="token number">10</span><span class="token punctuation">,</span><span class="token number">50</span><span class="token punctuation">)</span><span class="token punctuation">;</span>y <span class="token operator">=</span> <span class="token function">sin</span> <span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token function">figure</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token function">plot</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span></code></pre><p>$x^2-x_1$</p><p>我是一个脚注[^1]<br>[^1]: 你愁啥</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Nuclear-Condensed-Matter-Physics-with-Synchrotron-Radiation-A-1"><a href="#Nuclear-Condensed-Matter-Physics-with-Synchrotron-Radiation-A-1" class="headerlink" title="Nuclear Condensed Matter Physics with Synchrotron Radiation (A.1)"></a>Nuclear Condensed Matter Physics with Synchrotron Radiation (A.1)</h2><h4 id="Professional"><a href="#Professional" class="headerlink" title="Professional"></a>Professional</h4><ul><li>isotropic                   </li><li>kinematical approximation </li><li>intrinsic-internal            </li><li>deposit-deposition           </li><li>supercede </li><li>parasitic mode</li><li>deflect-deflection</li><li>divergence VS. deviation VS. derivation(infer-inferred) VS. discrepancy VS. at variance</li><li>compensate for</li><li>spurious (fake)</li><li>contaminate-contamination</li><li>mount</li><li>maintain</li><li>reciprocal</li><li>nominal angle</li><li>exceed (v.)-exceedingly small &amp; excess (adj.&amp; n.)</li><li>enhance the throughput</li><li>in the vicinity of the resonance (near)</li><li>breakthrough VS. thorough</li><li>dope-doping</li><li>compounds</li><li>dedicated beamline</li><li>homogeneous and inhomogeneous</li><li>oblique angle of the incidence (grazing-incidence)</li><li>penetrate</li><li>evanescent wave</li><li>modulus</li><li>proceed-precede</li><li>while-whereas</li><li>mimic</li><li>helicity</li><li>in comparison with (compare with)</li><li>reminder-remanent-residual</li><li>sextet-dozen</li><li>degree of enrichment</li><li>later-lateral</li><li>aperture-circumference</li><li>a renewed interest</li><li>substantial intensity enhancement</li><li>pronounced &amp; prominent &amp; explicit (obviously)</li><li>extend-expand</li><li>be assigned to VS. be assisted by</li><li>in-situ study</li><li>open new avenues</li><li>conventional technique(traditional)</li><li>cant-tilt (tilted probe layer)</li><li>reversible nature</li><li>scare (rarely &amp; seldom)</li><li>configuration</li><li>constraint</li><li>domain VS. dominate</li><li>minority</li><li>coil-recoil-recoilless</li><li>anomaly (n.)</li><li>preclude (prevent)</li><li>onset (begin)</li><li>intimate-intimately</li><li>via &amp; viz.</li><li>iterative procedure</li><li>originally (firstly)</li><li>elaborete</li><li>cure</li><li>converge (focus)</li><li>smear out</li><li>scrape out</li><li>ambiguous-unambiguous</li><li>speculate (suppose)</li><li>ambient (surrounding)</li><li>compress-compression-compressional</li><li>sheet (a sheet of paper)</li><li>deteriorate (be worse)</li><li>intuitive-counterintuitive</li><li>trigger ideas (give rise to)</li></ul><hr><h4 id=""><a href="#" class="headerlink" title=""></a></h4><ul><li>decays monotonously</li><li>prerequisite for the nuclear </li><li>intense theoretical and experimental efforts were taken</li><li>the every electron is subject to transverse oscillations (encounter &amp; undergo)</li><li>the incident radiation is first collimated by a low-order asymmetric reflection</li><li>investigate the interplay of the coherent and incoherent decay channel in the NFS</li><li>taking all orders of multiple scattering into account</li><li>of special interest in this work is grazing-incidence scattering</li><li>the sum runs over all initial states labeled by alpha</li><li>as shown schematically</li><li>presence of interfaces (existence)</li><li>striking discoveries</li><li>NFS exhibits (shows &amp; manifest) a similar sensitivity </li><li>significant influence on </li><li>violation of the kinematical approximation</li><li>impressive progress</li><li>important ingredient (part)</li><li>deepen the understanding</li></ul><hr><h4 id="Example"><a href="#Example" class="headerlink" title="Example"></a>Example</h4><ul><li>This particularly applies for the excitation of nuclear resonances with SR, the case that will be discussed in the remainder of this paragraph.</li><li>This effect can be exploited in any case where the signal from the probe layer is discriminated against the signal from the surrounding layer system, as it is the case for scattering process that rely on elemental or isotopic specificity.</li><li>by the excess in specific heat that accompanies the onset of structural relaxation.</li><li>This leads to a strong magnetic field at the nuclear position, which, for example, amounts to B=33.3T in the case of ferromagnetic alpha-Fe. </li><li>While the generous case is that of a mixed hyperfine interaction, there is a significant number of situations where strictly one of these case is encountered.</li><li>Maxima in the delayed reflectivity occur at positions with the steepest negative slope in the electronic reflectivity.</li><li>It is typically realized as thin-film system consisting of a low-density guiding layer coated on a substrate. (&amp; capped)</li><li>This can be exploited to study the magnetism as well as the lattice dynamics of thin films and nanoparticles.</li><li>It is instructive to plot the measured values for T and B versus the interatomic distance. (prep.)</li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;ol&gt;
-&lt;li&gt;你说啥&lt;/li&gt;
-&lt;li&gt;我没说话&lt;ol&gt;
-&lt;li&gt;你说话了&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;你看这是啥&lt;/li&gt;
-&lt;li&gt;&lt;u&gt;我看不到&lt;/u&gt;&lt;ul&gt;
-&lt;li&gt;你是眼瞎吧&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;Nuclear-Condensed-Matter-Physics-with-Synchrotron-Radiation-A-1&quot;&gt;&lt;a href=&quot;#Nuclear-Condensed-Matter-Physics-with-Synchrotron-Radiati</summary>
       
     
     
     
-    
-    <category term="Markdown" scheme="http://lonelypatient.top/tags/Markdown/"/>
     
   </entry>
   
